@@ -8,13 +8,13 @@ A responsive clone of [Two Good](Twogood) created using HTML, CSS, JavaScript, G
 ## Table of Contents
 - [Demo](https://ashutoshs10.github.io/too-good-co/)
 
-- [Features]()
+- [Features](https://github.com/AshutoshS10/too-good-co/tree/main#features)
 
-- [Technologies Used]()
+- [Technologies Used](https://github.com/AshutoshS10/too-good-co/tree/main#technologies-used)
 
-- [Installation]()
+- [Installation](https://github.com/AshutoshS10/too-good-co/tree/main#installation)
 
-- [Usage]()
+- [Usage](https://github.com/AshutoshS10/too-good-co/tree/main#usage)
 
 - [Contributing]()
 ## Demo[](https://ashutoshs10.github.io/too-good-co/)
@@ -37,10 +37,11 @@ You can try out the Twogood Clone live [here](https://ashutoshs10.github.io/too-
 - **GSAP:** For advanced animations.
 - **ScrollTrigger:** For scroll-based animations.
 - **Locomotive:** Enhances the scrolling experience.
+  
 ## Installation
 **1.** Clone this repository to your local machine using `git clone`.
-
 **2.** Open the project directory.
+
 ## Usage
 **1.** Open the `index.html` file in your web browser to view the website.
 
