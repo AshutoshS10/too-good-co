@@ -16,7 +16,7 @@ A responsive clone of [Two Good](Twogood) created using HTML, CSS, JavaScript, G
 
 - [Usage](https://github.com/AshutoshS10/too-good-co/tree/main#usage)
 
-- [Contributing]()
+- [Contributing](https://github.com/AshutoshS10/too-good-co/tree/main#contributing)
   
 ## Demo[](https://ashutoshs10.github.io/too-good-co/)
 
