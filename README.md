@@ -17,6 +17,7 @@ A responsive clone of [Two Good](Twogood) created using HTML, CSS, JavaScript, G
 - [Usage](https://github.com/AshutoshS10/too-good-co/tree/main#usage)
 
 - [Contributing]()
+  
 ## Demo[](https://ashutoshs10.github.io/too-good-co/)
 
 You can try out the Twogood Clone live [here](https://ashutoshs10.github.io/too-good-co/).
@@ -40,11 +41,25 @@ You can try out the Twogood Clone live [here](https://ashutoshs10.github.io/too-
   
 ## Installation
 **1.** Clone this repository to your local machine using `git clone`.
+
 **2.** Open the project directory.
 
 ## Usage
 **1.** Open the `index.html` file in your web browser to view the website.
 
-**2.** Explore the responsive design and scroll animations.
+**2.** Explore the responsive design and scroll animations.## Demo[](https://ashutoshs10.github.io/too-good-co/)
+
+## Contributing
+**1.** Fork the repository.
+
+**2.** Create a new branch for your feature or bug fix.
+
+**3.** Make your changes and commit them.
+
+**4.** Push your changes to your fork.
+
+**5.** Submit a pull request to the original repository.
+
+
 
 
