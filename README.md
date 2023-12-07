@@ -1,7 +1,7 @@
 
-# Twogood Clone
+# [Twogood Clone](https://ashutoshs10.github.io/too-good-co/)
 
-A responsive clone of [Two Good](Twogood) created using HTML, CSS, JavaScript, GSAP, ScrollTrigger, and Locomotive.
+A responsive clone of [Two Good](https://ashutoshs10.github.io/too-good-co/) created using HTML, CSS, JavaScript, GSAP, ScrollTrigger, and Locomotive.
 
 
 
